@@ -1,4 +1,4 @@
-## Aboout me
+## About me
 - Unity Enginer
 - Motion Capture Opration
 - Digital Hollywood University
