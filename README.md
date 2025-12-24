@@ -7,10 +7,8 @@
 # Skill
 - Unity
 - C#
+- Rust(lerning)
 - MotionBuilder
 - Adobe
 - Blender
 - etc...
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahagi-day&count_private=true&show_icons=true&theme=merko)
